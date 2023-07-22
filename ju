@@ -1,0 +1,312 @@
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://pancanal.com/wp-content/uploads/2015/06/logo-tucanalTV-300x272-1.png" group-title="01- VARIEDADES",Tu Canal al Día
+dtv://antenna:26/dvb/1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://seeklogo.com/images/E/enlace-tv-logo-683F9F308A-seeklogo.com.png" group-title="01- VARIEDADES",Enlace TV
+dtv://antenna:30/dvb/2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/co_enlace-juvenil_m.png" group-title="01- VARIEDADES",TV Color
+dtv://antenna:30/dvb/3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png" group-title="01- VARIEDADES",TV Color
+dtv://antenna:30/dvb/4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Nexnew.png" group-title="01- VARIEDADES",Next Sport HD
+dtv://antenna:34/dvb/5
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Logo_Viva_Canal_33.png" group-title="01- VARIEDADES",Viva HD
+dtv://antenna:34/dvb/6
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://play-lh.googleusercontent.com/d3bnw0h-STU3ZsBImqYPkL11BgfXu35QaK7WNlsrvTpPIvh7esBp6NNlIxU_jV4Zrw" group-title="01- VARIEDADES",SerTv HD
+dtv://antenna:41/dvb/7
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/1200px-Logo-telemetro.svg.png" group-title="01- VARIEDADES",Telemetro HD
+dtv://antenna:42/dvb/8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/RPC_%282010%29.png/revision/latest/scale-to-width-down/220?cb=20210906023856&path-prefix=es" group-title="01- VARIEDADES",RPC HD
+dtv://antenna:43/dvb/9
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_a24bT9HchMj0ooPAT0vjeZZaGBFcdjOf5RtrM6d-GXpTnVqdp0aMVQ5nnPkiSGWtWyU&usqp=CAU" group-title="01- VARIEDADES",OYE
+dtv://antenna:43/dvb/10
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png/revision/latest/scale-to-width-down/220?cb=20200108123758&path-prefix=es" group-title="01- VARIEDADES",TVN
+dtv://antenna:45/dvb/11
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TVMax.png/revision/latest?cb=20171029093122&path-prefix=es" group-title="01- VARIEDADES",TVMAX HD
+dtv://antenna:47/dvb/12
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/FETV_PANAMA_2012.jpg" group-title="01- VARIEDADES",FTV
+dtv://antenna:48/dvb/15
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeTYd-hCcHSL464eowtNR_AB-f_5ZPzOTayjK_hPd6VMtX8HKEE8Y5AoEcOXbmDwA6_1g&usqp=CAU" group-title="01- VARIEDADES",+23 HD
+dtv://antenna:49/dvb/16
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/FETV_PANAMA_2012.jpg" group-title="01- VARIEDADES",NEXT HD
+dtv://antenna:49/dvb/17
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tUHkolc.png" group-title="01- VARIEDADES",Hosanna Vision
+https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
+
+
+######################################################################################################################################
+#######################################
+######################################Adventistas
+#######################################
+######################################################################################################################################
+#EXTINF:-1 tvg-logo="https://files.adventistas.org/noticias/es/2018/02/19155001/17264430_1492784617429961_3420122548947736981_n.png" group-title="00- CANALES ADVENTISTAS",Nuevo Tiempo
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="00- CANALES ADVENTISTAS",3ABNLatino
+https://3abn-live.akamaized.net/hls/live/2010547/Latino/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Dios Te Ve Kids" tvg-logo="https://lh3.googleusercontent.com/-5ca98mWuI48/X1BU1VE-fFI/AAAAAAAA5MM/DPmAa2uFmTIH4MOJAVpjUCCClixnPOP7QCK8BGAsYHg/s0/2020-09-02.png", Dios Te Ve Kids | HN
+https://emisoras.hn:8081/diostevekids/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="3ABN Kids" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOgxTYjHrvg99Hb62kBaAMSFTHgHSleEwf-C73z=s900-c-k-c0x00ffffff-no-rj", 3ABN Kids | HN
+https://3abn-live.akamaized.net/hls/live/2010550-b/Kids/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/13039790_300x300" group-title="00- CANALES ADVENTISTAS",Logos TV
+https://streamer1.streamhost.org/salive/logosH/chunklist_w2047610795.m3u8
+
+#EXTINF:-1tvg-name="Enlace" tvg-logo="https://i2.paste.pics/028b73983997d13e7c9244a0103850ad.png", Enlace | US
+https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://www.recursos-biblicos.com/wp-content/uploads/2014/09/RedADVenirenVivo-Televisi%C3%B3nAdventista.jpg" group-title="00- CANALES ADVENTISTAS",Red Advenir
+https://streamer1.streamhost.org/salive/GMIredadvenirh/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-id="928" tvg-name="MovieFE" tvg-logo="https://i2.paste.pics/f13ba72f2517c25f7dc57a9171a7c8a0.png", MovieFE | VE
+https://vcp.myplaytv.com:443/moviefe/ngrp:moviefe_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="00- CANALES ADVENTISTAS",3ABN International
+https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/SQs/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://mttaborsdachurch.org/hp_wordpress/wp-content/uploads/2013/07/Amazing-Facts-Logo.jpg" group-title="00- CANALES ADVENTISTAS",Amazing Facts
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hopetv.org/fileadmin/HopeChannel/files/pages/images/hopechannelroku.jpg" group-title="00- CANALES ADVENTISTAS",Hope Channel
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUWyrdVsdI1mlzM8r9Ma0kFOmQ0jSwytuDtaJGAYjaQ4e8hMhk&s" group-title="00- CANALES ADVENTISTAS",Hope Channel Intl
+https://bcliveunivsecure-lh.akamaihd.net/i/International_1@571272/index_3192_av-p.m3u8?sd=10&rebase=on
+
+######################################################################################################################################
+#######################################
+#######################################Ingles
+#######################################
+######################################################################################################################################
+
+#EXTINF:-1,AE Mundo
+http://181.78.4.186:8000/play/a0f1/index.m3u8
+#EXTINF:-1,AXN
+http://181.78.4.186:8000/play/a0ha/index.m3u8
+#EXTINF:-1,AXN HD
+http://186.148.184.163:8000/play/a03n
+#EXTINF:-1,America TV PY
+http://181.78.4.186:8000/play/a0fy/index.m3u8
+#EXTINF:-1,Animal Planet
+http://181.78.4.186:8000/play/a0es/index.m3u8
+#EXTINF:-1,Around the World
+http://181.78.4.186:8000/play/a0gm/index.m3u8
+#EXTINF:-1,BabyFirst
+http://181.78.4.186:8000/play/a0e2/index.m3u8
+#EXTINF:-1,CNN Espanol
+http://181.78.4.186:8000/play/a0e6/index.m3u8
+#EXTINF:-1,Canal Caracol
+http://181.78.4.186:8000/play/a0g5/index.m3u8
+#EXTINF:-1,Canal Estrellas
+http://181.78.4.186:8000/play/a0ff/index.m3u8
+#EXTINF:-1,Canal Institucional
+http://181.78.4.186:8000/play/a0g9/index.m3u8
+#EXTINF:-1,Canal RCN
+http://181.78.4.186:8000/play/a0g6/index.m3u8
+#EXTINF:-1,Canal Uno
+http://181.78.4.186:8000/play/a0g3/index.m3u8
+#EXTINF:-1,Canal del Congreso
+http://181.78.4.186:8000/play/a0ga/index.m3u8
+#EXTINF:-1,Capital
+http://181.78.4.186:8000/play/a0gl/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://181.78.4.186:8000/play/a0dv/index.m3u8
+#EXTINF:-1,Cinecanal
+http://181.78.4.186:8000/play/a0dn/index.m3u8
+#EXTINF:-1,Cinemax
+http://181.78.4.186:8000/play/a0h8/index.m3u8
+#EXTINF:-1,City TV
+http://181.78.4.186:8000/play/a0gk/index.m3u8
+#EXTINF:-1,Cocktail Lounge
+http://181.78.4.186:8000/play/a0go/index.m3u8
+#EXTINF:-1,Dance Clubbin
+http://181.78.4.186:8000/play/a0h2/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://181.78.4.186:8000/play/a0er/index.m3u8
+#EXTINF:-1,Discovery ID
+http://181.78.4.186:8000/play/a0hv/index.m3u8
+#EXTINF:-1,Discovery Kids
+http://181.78.4.186:8000/play/a0e5/index.m3u8
+#EXTINF:-1,Discovery Turbo
+http://181.78.4.186:8000/play/a0hl/index.m3u8
+#EXTINF:-1,Disney Channel
+http://181.78.4.186:8000/play/a0eq/index.m3u8
+#EXTINF:-1,Disney Jr
+http://181.78.4.186:8000/play/a0ei/index.m3u8
+#EXTINF:-1,E Entertainment
+http://181.78.4.186:8000/play/a0eu/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://186.148.184.163:8000/play/a03p
+#EXTINF:-1,ESPN 3 HD
+http://186.148.184.163:8000/play/a03u
+#EXTINF:-1,ESPN 4 HD
+http://186.148.184.163:8000/play/a045
+#EXTINF:-1,ESPN EXTRA HD
+http://186.148.184.163:8000/play/a04c
+#EXTINF:-1,ESPN HD
+http://186.148.184.163:8000/play/a04k
+#EXTINF:-1,ESPN CO
+http://181.78.4.186:8000/play/a0ge/index.m3u8
+#EXTINF:-1,Easy Listening
+http://181.78.4.186:8000/play/a0h4/index.m3u8
+#EXTINF:-1,Enlace
+http://181.78.4.186:8000/play/a0e0/index.m3u8
+#EXTINF:-1,Esne TV
+http://181.78.4.186:8000/play/a0hm/index.m3u8
+#EXTINF:-1,Euro Hits
+http://181.78.4.186:8000/play/a0h5/index.m3u8
+#EXTINF:-1,FX
+http://181.78.4.186:8000/play/a0hc/index.m3u8
+#EXTINF:-1,Fox Sports 2
+http://181.78.4.186:8000/play/a0fg/index.m3u8
+#EXTINF:-1,Fox Sports 3
+http://181.78.4.186:8000/play/a0fh/index.m3u8
+#EXTINF:-1,HBO
+http://181.78.4.186:8000/play/a0h7/index.m3u8
+#EXTINF:-1,HBO 2
+http://181.78.4.186:8000/play/a0ee/index.m3u8
+#EXTINF:-1,HBO Family
+http://181.78.4.186:8000/play/a0eh/index.m3u8
+#EXTINF:-1,HBO Plus
+http://181.78.4.186:8000/play/a0ef/index.m3u8
+#EXTINF:-1,HBO XTREME SD
+http://181.78.4.186:8000/play/a0eg/index.m3u8
+#EXTINF:-1,History Channel
+http://181.78.4.186:8000/play/a0dm/index.m3u8
+#EXTINF:-1,History Channel HD
+http://186.148.184.163:8000/play/a03j
+#EXTINF:-1,HomeandHealth
+http://181.78.4.186:8000/play/a0fp/index.m3u8
+#EXTINF:-1,I-Sat
+http://181.78.4.186:8000/play/a0dp/index.m3u8
+#EXTINF:-1,Jukebox Oldies
+http://181.78.4.186:8000/play/a0gx/index.m3u8
+#EXTINF:-1,Lifetime
+http://181.78.4.186:8000/play/a0e3/index.m3u8
+#EXTINF:-1,MTV
+http://181.78.4.186:8000/play/a0dq/index.m3u8
+#EXTINF:-1,Nat Geo
+http://181.78.4.186:8000/play/a0dl/index.m3u8
+#EXTINF:-1,New Age
+http://181.78.4.186:8000/play/a0f4/index.m3u8
+#EXTINF:-1,Nick Jr
+http://181.78.4.186:8000/play/a0hk/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://181.78.4.186:8000/play/a0dk/index.m3u8
+#EXTINF:-1,RCN HD
+http://181.78.4.186:8000/play/a0ih/index.m3u8
+#EXTINF:-1,RCN Novelas
+http://181.78.4.186:8000/play/a0fj/index.m3u8
+#EXTINF:-1,STAR CHANNEL
+http://181.78.4.186:8000/play/a0dt/index.m3u8
+#EXTINF:-1,Senal Colombia
+http://181.78.4.186:8000/play/a0gb/index.m3u8
+#EXTINF:-1,Sin Limites
+http://181.78.4.186:8000/play/a0fx/index.m3u8
+#EXTINF:-1,Solo Para Peques
+http://181.78.4.186:8000/play/a0gr/index.m3u8
+#EXTINF:-1,Sony
+http://181.78.4.186:8000/play/a0h9/index.m3u8
+#EXTINF:-1,Space
+http://181.78.4.186:8000/play/a0hb/index.m3u8
+#EXTINF:-1,Studio Universal
+http://181.78.4.186:8000/play/a0ek/index.m3u8
+#EXTINF:-1,SyFy
+http://181.78.4.186:8000/play/a0e4/index.m3u8
+#EXTINF:-1,Symphonic
+http://181.78.4.186:8000/play/a0f3/index.m3u8
+#EXTINF:-1,TBS
+http://181.78.4.186:8000/play/a0fn/index.m3u8
+#EXTINF:-1,TCM
+http://181.78.4.186:8000/play/a0du/index.m3u8
+#EXTINF:-1,TLC
+http://181.78.4.186:8000/play/a0fd/index.m3u8
+#EXTINF:-1,TNT
+http://181.78.4.186:8000/play/a0dw/index.m3u8
+#EXTINF:-1,TNT Series HD
+http://181.78.4.186:8000/play/a0ie/index.m3u8
+#EXTINF:-1,TRO
+http://181.78.4.186:8000/play/a0gi/index.m3u8
+#EXTINF:-1,TV+ HD
+http://181.78.4.186:8000/play/a07v/index.m3u8
+#EXTINF:-1,TVE
+http://181.78.4.186:8000/play/a0e1/index.m3u8
+#EXTINF:-1,Teleantioquia
+http://181.78.4.186:8000/play/a0hd/index.m3u8
+#EXTINF:-1,Telecafe
+http://181.78.4.186:8000/play/a0hq/index.m3u8
+#EXTINF:-1,Telecaribe
+http://181.78.4.186:8000/play/a0ho/index.m3u8
+#EXTINF:-1,Teleislas
+http://181.78.4.186:8000/play/a0gj/index.m3u8
+#EXTINF:-1,Telemundo
+http://181.78.4.186:8000/play/a0fi/index.m3u8
+#EXTINF:-1,Telepacifico
+http://181.78.4.186:8000/play/a0hf/index.m3u8
+#EXTINF:-1,Total Hits Italy
+http://181.78.4.186:8000/play/a0gs/index.m3u8
+#EXTINF:-1,Trece
+http://181.78.4.186:8000/play/a0hr/index.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://181.78.4.186:8000/play/a0i4/index.m3u8
+#EXTINF:-1,Universal
+http://181.78.4.186:8000/play/a0do/index.m3u8
+#EXTINF:-1,Universal Cinema SD
+http://181.78.4.186:8000/play/a0en/index.m3u8
+#EXTINF:-1,Universal Comedy SD
+http://181.78.4.186:8000/play/a0eo/index.m3u8
+#EXTINF:-1,Universal Premiere SD
+http://181.78.4.186:8000/play/a0em/index.m3u8
+#EXTINF:-1,Venus
+http://181.78.4.186:8000/play/a0f2/index.m3u8
+#EXTINF:-1,ViaX
+http://181.78.4.186:8000/play/a0fe/index.m3u8
+#EXTINF:-1,Warner
+http://181.78.4.186:8000/play/a0et/index.m3u8
+#EXTINF:-1,Win
+http://181.78.4.186:8000/play/a0he/index.m3u8
+#EXTINF:-1,Win Sports+ HD
+http://181.78.4.186:8000/play/a08e/index.m3u8
+#EXTINF:-1,Zona Latina
+http://181.78.4.186:8000/play/a0dr/index.m3u8
+#EXTINF:-1,Zoom
+http://181.78.4.186:8000/play/a0gh/index.m3u8
+#EXTINF:-1,Paramount HD
+http://186.148.184.163:8000/play/a04e
+#EXTINF:-1,STAR CHANNEL HD
+http://186.148.184.163:8000/play/a04q
+#EXTINF:-1,STAR CHANNEL HD
+http://186.148.184.163:8000/play/a042
+#EXTINF:-1,Sony HD
+http://186.148.184.163:8000/play/a03l
+#EXTINF:-1,Space HD
+http://186.148.184.163:8000/play/a03o
+#EXTINF:-1,Studio Universal HD
+http://186.148.184.163:8000/play/a04f
+#EXTINF:-1,TBS Very Funny HD
+http://186.148.184.163:8000/play/a04r
+#EXTINF:-1,TNT HD
+http://186.148.184.163:8000/play/a03t
+#EXTINF:-1,TNT SERIES
+http://186.148.184.163:8000/play/a055
+#EXTINF:-1,TNT SERIES (clone)
+http://186.148.184.163:8000/play/a058
+#EXTINF:-1,TNT Series HD
+http://186.148.184.163:8000/play/a048
+#EXTINF:-1,Telehit HD
+http://186.148.184.163:8000/play/a04j
+#EXTINF:-1,TyC Sports HD
+http://186.148.184.163:8000/play/a04n
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://186.148.184.163:8000/play/a043
+#EXTINF:-1,Venus
+http://186.148.184.163:8000/play/a056
+#EXTINF:-1,Warner Channel HD
+http://186.148.184.163:8000/play/a03m
+#EXTINF:-1,Win Sports HD
